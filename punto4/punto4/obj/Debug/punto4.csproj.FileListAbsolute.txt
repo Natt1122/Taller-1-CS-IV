@@ -1,0 +1,8 @@
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\bin\Debug\punto4.exe.config
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\bin\Debug\punto4.exe
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\bin\Debug\punto4.pdb
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\obj\Debug\punto4.csproj.AssemblyReference.cache
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\obj\Debug\punto4.csproj.SuggestedBindingRedirects.cache
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\obj\Debug\punto4.csproj.CoreCompileInputs.cache
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\obj\Debug\punto4.exe
+D:\U\Construcción de software\Taller 1 construcción\punto4\punto4\obj\Debug\punto4.pdb
